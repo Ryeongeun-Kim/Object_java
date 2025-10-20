@@ -27,8 +27,8 @@ public class CompareOperatorExample {
 		boolean result6 = (num5 == num6);
 		boolean result7 = (num5 == (float)num6);
 
-		System.out.println("result5: "+ result5);
 		System.out.println("result6: "+ result6);
+		System.out.println("result7: "+ result7);
 		
 		String str1 = "자바";
 		String str2 = "JAVA";
